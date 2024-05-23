@@ -1,2 +1,2 @@
 # DF-
-This is practice for GitHub!
+Repositiory containing Digital Futures projects 
